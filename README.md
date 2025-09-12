@@ -1,0 +1,2 @@
+# Facial-Presence-Ledger
+Facial Presence Ledger is a cutting-edge attendance system that uses facial recognition to effortlessly track who’s present. It’s secure, fast, and accurate, turning faces into a reliable digital ledger for seamless roll-call management. Perfect for schools, offices, or events, it simplifies attendance with a modern, tech-savvy twist.
