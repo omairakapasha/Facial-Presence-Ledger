@@ -1,1 +1,1 @@
-2 The core principles are discussed below:
+Here we are with the recent project:
